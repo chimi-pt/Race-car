@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643348382 source:/home/chimi/Desktop/Project/cg/racecar/main.cpp
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+
